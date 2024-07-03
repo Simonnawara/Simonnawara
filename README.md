@@ -2,15 +2,17 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>HTML ; JAVASCRIPT PROJECTS</b>
+- <b>HTML ; JavaScript</b>
   - [Weather API app](https://github.com/Simonnawara/Weather_App.git)
+- <b>C</b>
+  - [Advanced calculator / unit converter](https://github.com/Simonnawara/C-calculator)
+  - [Retro Snake Game](https://github.com/Simonnawara/C-snake)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C</b>
-  - [Advanced calculator / unit converter](https://github.com/Simonnawara/C-calculator)
+
 
 <h2> 🤳 Connect with me:</h2>
 
