@@ -1,4 +1,4 @@
-<h1>Hi, I'm Simon! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">3D Modeler</a>, <a href="www.linkedin.com/in/simon-nawara-24762a2b6">Learner</a></h1>
+<h1>Hi, I'm Simon! <br/><a href="https://github.com/Simonnawara">Programmer</a>, <a href="https://www.linkedin.com/in/simon-nawara-24762a2b6/">Learner</a>, <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">3D Modeler</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
