@@ -5,6 +5,7 @@
 - <b>HTML ; JavaScript</b>
   - [Weather API app](https://github.com/Simonnawara/Weather_App.git)
 - <b>C</b>
+  - [My piscine at 42](https://github.com/Simonnawara/Piscine42)
   - [Advanced calculator / unit converter](https://github.com/Simonnawara/C-calculator)
   - [Retro Snake Game](https://github.com/Simonnawara/C-snake)
   - [Yearly Calendar](https://github.com/Simonnawara/C-Calendar/tree/main)
