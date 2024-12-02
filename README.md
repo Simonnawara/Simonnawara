@@ -2,37 +2,19 @@
 
 <h1>Hi, I'm Simon! <br/><br/>🎓 Aspiring Software Engineer | Learner</a> | Problem Solver</a></h1>
 
-## 🚀 Featured Projects  
+## 🚀 My Latest Projects  
 
-[![Get_next_line](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=Get_Next_line&theme=onedark&v=1)](https://github.com/Simonnawara/get_next_line)
+[![Get_next_line](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=Get_Next_line&theme=dracula&v=1)](https://github.com/Simonnawara/get_next_line)
 <br/> <br/>
 
-[![Push Swap](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=Push_Swap&theme=onedark)](https://github.com/Simonnawara/push_swap)
+[![Push Swap](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=Push_Swap&theme=dracula&v=1)](https://github.com/Simonnawara/push_swap)
 <br/> <br/>
 
-[![Pipex](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=Pipex&theme=onedark)](https://github.com/Simonnawara/pipex)
+[![Pipex](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=Pipex&theme=dracula&v=1)](https://github.com/Simonnawara/pipex)
 <br/> <br/>
 
 ##   
 
-<table>
-  <tr>
-    <td>
-      <h3>🌱 Currently Learning</h3>
-      <ul>
-        <li>Advanced algorithms and data structures</li>
-        <li>System-level programming</li>
-        <li>Collaborative coding with peers</li>
-      </ul>
-    </td>
-    <td>
-      <h3>📈 My Stats</h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simonnawara&layout=compact&theme=radical" alt="Top Languages" />
-      </p>
-    </td>
-  </tr>
-</table>
 
 ## 📬 Let's Connect
 
