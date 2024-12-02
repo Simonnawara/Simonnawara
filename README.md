@@ -8,11 +8,9 @@
 <br/> <br/>
 
 [![Push Swap](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=Push_Swap&theme=onedark)](https://github.com/Simonnawara/push_swap)
-<br/>A fine tuned implementation of the Turk algorithm to sort a stack of integers.
 <br/> <br/>
 
 [![Pipex](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=Pipex&theme=onedark)](https://github.com/Simonnawara/pipex)
-<br/>A functional shell built from scratch, inspired by bash.
 <br/> <br/>
 
 ##   
