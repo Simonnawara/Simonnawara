@@ -5,7 +5,6 @@
 ## 🚀 Featured Projects  
 
 [![Get_next_line](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=Get_Next_line&theme=onedark)](https://github.com/Simonnawara/get_next_line)
-<br/>An efficient function for reading a file line by line in C.
 <br/> <br/>
 
 [![Push Swap](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=Push_Swap&theme=onedark)](https://github.com/Simonnawara/push_swap)
