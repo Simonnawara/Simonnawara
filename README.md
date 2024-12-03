@@ -4,18 +4,16 @@
 
 ## 🚀 My Latest Projects  
 
-[![Get_next_line](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=Get_Next_line&theme=dracula&v=1)](https://github.com/Simonnawara/get_next_line)
+[![Pipex](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=Pipex&theme=dracula&v=1)](https://github.com/Simonnawara/pipex)
 <br/> <br/>
 
 [![Push Swap](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=Push_Swap&theme=dracula&v=1)](https://github.com/Simonnawara/push_swap)
 <br/> <br/>
 
-[![Pipex](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=Pipex&theme=dracula&v=1)](https://github.com/Simonnawara/pipex)
+[![Get_next_line](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=Get_Next_line&theme=dracula&v=1)](https://github.com/Simonnawara/get_next_line)
 <br/> <br/>
 
 ##   
-## 🌱 Currently Learning and 📈 My Stats  
-
 <table>
   <tr>
     <td style="width: 50%; vertical-align: top; text-align: left; padding: 10px;">
