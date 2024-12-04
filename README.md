@@ -2,18 +2,17 @@
 
 <h1>Hi, I'm Simon!<br/>🎓 Aspiring Software Engineer | Learner</a> | Problem Solver</a></h1>
 
-## 🚀 My Latest Projects  
-
-[![Pipex](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=Pipex&theme=dracula&v=1)](https://github.com/Simonnawara/pipex)
+## 👋 About me
+Hi! I’m a passionate software developer and student at 42, diving deep into coding, problem-solving, and algorithms.
+<br/>
+I love learning new technologies, taking on tough challenges, and collaborating with others to create something amazing.
 <br/> <br/>
+Here, you'll be able to find what I'm currently learning, and my latest projects! ⬇️
+<br/>
+Good luck !
 
-[![Push Swap](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=Push_Swap&theme=dracula&v=1)](https://github.com/Simonnawara/push_swap)
-<br/> <br/>
-
-[![Get_next_line](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=Get_Next_line&theme=dracula&v=1)](https://github.com/Simonnawara/get_next_line)
-<br/> <br/>
-
-##   
+#
+<br/>
 <table>
   <tr>
     <td style="width: 50%; vertical-align: top; text-align: left; padding: 10px;">
@@ -29,6 +28,17 @@
     </td>
   </tr>
 </table>
+
+## 🚀 My Latest Projects  
+
+[![Pipex](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=Pipex&theme=dracula&v=1)](https://github.com/Simonnawara/pipex)
+<br/> <br/>
+
+[![Push Swap](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=Push_Swap&theme=dracula&v=1)](https://github.com/Simonnawara/push_swap)
+<br/> <br/>
+
+[![Get_next_line](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=Get_Next_line&theme=dracula&v=1)](https://github.com/Simonnawara/get_next_line)
+<br/> <br/>
 
 ## 📬 Let's Connect
 
