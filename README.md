@@ -31,7 +31,7 @@ Good luck !
 
 ## 🚀 My Latest Projects  
 
-[![Philosophers](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=Philosophers&theme=dracula&v=2)](https://github.com/Simonnawara/Philosophers)
+[![Philosophers](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=Philosophers&theme=dracula&v=3)](https://github.com/Simonnawara/Philosophers)
 <br/> <br/>
 
 [![Pipex](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=Pipex&theme=dracula&v=1)](https://github.com/Simonnawara/pipex)
