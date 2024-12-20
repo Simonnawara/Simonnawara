@@ -37,7 +37,7 @@ Good luck !
 [![Push Swap](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=Push_Swap&theme=dracula&v=1)](https://github.com/Simonnawara/push_swap)
 <br/> <br/>
 
-[![Get_next_line](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=Get_Next_line&theme=dracula&v=1)](https://github.com/Simonnawara/get_next_line)
+[![philosophers](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=philosophers&theme=dracula&v=1)](https://github.com/Simonnawara/philosophers)
 <br/> <br/>
 
 ## 📬 Let's Connect
