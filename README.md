@@ -31,10 +31,10 @@ Good luck !
 
 ## 🚀 My Latest Projects  
 
-[![Philosophers](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=Philosophers&theme=dracula&v=3)](https://github.com/Simonnawara/Philosophers)
+[![Minishell](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=Minishell&theme=dracula&v=3)](https://github.com/Simonnawara/Minishell)
 <br/> <br/>
 
-[![Pipex](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=Pipex&theme=dracula&v=1)](https://github.com/Simonnawara/pipex)
+[![Philosophers](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=Philosophers&theme=dracula&v=3)](https://github.com/Simonnawara/Philosophers)
 <br/> <br/>
 
 [![Push Swap](https://github-readme-stats.vercel.app/api/pin/?username=Simonnawara&repo=Push_Swap&theme=dracula&v=1)](https://github.com/Simonnawara/push_swap)
